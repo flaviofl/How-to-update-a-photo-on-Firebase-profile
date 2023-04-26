@@ -10,7 +10,7 @@ You can do this by calling the `getDownloadURL()` method on the `StorageReferenc
 ## Update the user's profile in Firebase Authentication
 You need to update the user's profile in Firebase Authentication.
 You can do this by calling the `updateProfile()` method on the `FirebaseUser` object that represents the user. 
-In this method, you can set the user's display name and photo URL using the `displayName` and `photoURL` properties.
+In this method, you can set the user's display name and photo URL using the `displayName` and `photoURL` properties.   
 Check [Cloud Storage for Firebase / Web / Manage users / Update a user's profile](https://firebase.google.com/docs/auth/web/manage-users#update_a_users_profile)
 
 
